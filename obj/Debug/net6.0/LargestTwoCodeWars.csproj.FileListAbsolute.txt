@@ -1,0 +1,15 @@
+C:\dev\LargestTwoCodeWars\bin\Debug\net6.0\LargestTwoCodeWars.exe
+C:\dev\LargestTwoCodeWars\bin\Debug\net6.0\LargestTwoCodeWars.deps.json
+C:\dev\LargestTwoCodeWars\bin\Debug\net6.0\LargestTwoCodeWars.runtimeconfig.json
+C:\dev\LargestTwoCodeWars\bin\Debug\net6.0\LargestTwoCodeWars.dll
+C:\dev\LargestTwoCodeWars\bin\Debug\net6.0\LargestTwoCodeWars.pdb
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.csproj.AssemblyReference.cache
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.AssemblyInfoInputs.cache
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.AssemblyInfo.cs
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.csproj.CoreCompileInputs.cache
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.dll
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\refint\LargestTwoCodeWars.dll
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.pdb
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\LargestTwoCodeWars.genruntimeconfig.cache
+C:\dev\LargestTwoCodeWars\obj\Debug\net6.0\ref\LargestTwoCodeWars.dll
